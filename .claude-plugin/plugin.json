@@ -1,0 +1,11 @@
+{
+  "name": "copy-bar",
+  "version": "0.1.0",
+  "description": "Click a code block or a URL in Claude's reply to copy it",
+  "types": "./types/index.d.ts",
+  "author": {
+    "name": "Francisco Beccaria"
+  },
+  "license": "MIT",
+  "repository": "https://github.com/franciscobeccaria/copy-bar"
+}

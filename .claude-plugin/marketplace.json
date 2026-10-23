@@ -1,0 +1,5 @@
+{
+  "name": "copy-bar",
+  "owner": { "name": "Francisco Beccaria" },
+  "plugins": [{ "name": "copy-bar", "source": "./" }]
+}
